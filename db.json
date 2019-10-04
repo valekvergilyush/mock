@@ -8,5 +8,8 @@
   "profile": {
     "name": "typicode"
   },
-  "position": 1
+  "positions": {
+    "id": 1,
+    "value": 1
+  },
 }
